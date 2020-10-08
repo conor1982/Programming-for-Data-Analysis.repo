@@ -6,7 +6,7 @@ for i in range(20):
 
 print(" ")
 
-for i in range(50):
+for i in range(-79,50):
     if i % 2 != 0:
         print(i)
 
